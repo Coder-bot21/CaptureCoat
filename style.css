@@ -5806,7 +5806,7 @@ div.swiper-pagination-custom, .swiper-pagination-fraction {
 }
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span{
     background: #19FFAB;
-}
+} 
 .owl-theme .owl-dots .owl-dot:focus {
     outline: none;
 }
@@ -6617,7 +6617,7 @@ div.tp-bullet.selected, div.tp-bullet:hover {
 }
 .top-v5 {
     background-color: #0E0A31;
-    background-image: url(https://arbordayblog.org/wp-content/uploads/2018/06/oak-tree-sunset-iStock-477164218.jpg);
+    background-image: url(https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1055&q=80);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -6628,7 +6628,7 @@ div.tp-bullet.selected, div.tp-bullet:hover {
     padding: 0 0 20px 0;
 }
 .top-left-v5 .ot-heading > span{
-    color: #fff;
+    color: #000000;
     font-family: "Nunito Sans",Sans-serif;
     font-size: 24px;
     font-weight: 500;
@@ -6636,14 +6636,14 @@ div.tp-bullet.selected, div.tp-bullet:hover {
     margin-bottom: 1px;
 }
 .top-left-v5 .ot-heading h2 {
-    color: #fff;
+    color: #000000;
     font-size: 70px;
     font-weight: 900;
     line-height: 80px;
     overflow-wrap: normal;
 }
 .top-left-v5 p {
-    color: #fff;
+    color: #000000;
     font-size: 18px;
     margin: 0 70px 0 0;
     padding: 0 0 25px 0;
